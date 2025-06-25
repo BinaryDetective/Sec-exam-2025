@@ -1,0 +1,16 @@
+\documentclass[12pt]{article}
+\usepackage{cite}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{inputenc}
+\begin{document}
+\title{\textbf{Hello World!}}
+\author{Rivu Mete}
+\date{\today}
+\maketitle
+\section{Bibliography}
+     Predictive microbiology is based upon the premise that the responses of populations of microorganisms to environmental factors are reproducible, and that by considering environments in terms of identifiable dominating constraints it is possible, from past observations, to predict the responses of those microorganisms. Proponents claim that pedictive microbiology offers many benefits to the practice of food microbiology, and there is growing interest internationally. This review considers the origins, benefits and approaches to predictive microbiology and critically considers limitations and potential solutions.\\
+     It is suggested that the traditional delineation between kinetic and probabilistic models is artificial, and that the two approaches represent the opposite ends of a spectrum of modelling needs. It is concluded: that despite the complexity of many food systems predictive modelling can be successfully applied; that strategies based on predictive models can simplify problems and allow useful predictions and analyses to be made; that the full potential of the technique has not yet been realised; and that “predictive microbiology” may be seen as providing a rational framework for understanding the microbial ecology of food.Here the books \cite{chakraborty2016nano,rangasamy2011nano,baron1982medical,schlegel1993general,willey2014prescott,brooks2007medical,mims2004medical,pommerville2013fundamentals,ross1994predictive,stanier1987general}
+\bibliographystyle{plain}
+\bibliography{ref1, ref2,ref3,ref4,ref5,ref6,ref7,ref8,ref9,ref10}\\
+\end{document}
